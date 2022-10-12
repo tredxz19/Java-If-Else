@@ -1,5 +1,4 @@
-# Java-If-Else-By-DexRapsing
-
+# Java-If-Else
 import java.util.*;
 class Main {
   public static void main(String[] args) {
